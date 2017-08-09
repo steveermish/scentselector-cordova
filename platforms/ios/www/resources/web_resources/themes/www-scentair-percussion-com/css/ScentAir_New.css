@@ -1611,7 +1611,7 @@ font-size: 14px;
 }
 #logo {   margin: 20px !important;   padding: 0;   border: none;   height: auto;   width: 100% !important;   float: none !important; } 
 #header { position: relative !important; }
-nav.mobileOnly { margin-top: 0 !important; text-align: left !important; }
+nav.mobileOnly { margin-top: 0 !important; text-align: center !important; }
 nav ul li { margin-right: 0 !important; }
 .top-bar .toggle-topbar.menu-icon {   top: 10px !important;   margin-top: -16px !important; } 
 .top-bar-section ul li>a, .top-bar.expanded, .top-bar, .top-bar.expanded .title-area, .top-bar-section ul li { background-color: #333 !important; color: rgb(255, 255, 255);}
